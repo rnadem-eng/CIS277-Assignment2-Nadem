@@ -1,0 +1,8 @@
+packet_queue
+*.o
+*.obj
+*.exe
+*.dSYM/
+.DS_Store
+__pycache__/
+student_tests
